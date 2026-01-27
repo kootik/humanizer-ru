@@ -7,14 +7,14 @@ Skill для Claude Code, который удаляет признаки AI-ге
 ### Рекомендуемый способ
 
 ```bash
-git clone https://github.com/sergeshima/humanizer-ru.git ~/.claude/skills/humanizer-ru
+git clone https://github.com/smixs/humanizer-ru.git ~/.claude/skills/humanizer-ru
 ```
 
 ### Ручная установка
 
 ```bash
 mkdir -p ~/.claude/skills/humanizer-ru
-curl -o ~/.claude/skills/humanizer-ru/SKILL.md https://raw.githubusercontent.com/sergeshima/humanizer-ru/main/SKILL.md
+curl -o ~/.claude/skills/humanizer-ru/SKILL.md https://raw.githubusercontent.com/smixs/humanizer-ru/main/SKILL.md
 ```
 
 ## Использование
